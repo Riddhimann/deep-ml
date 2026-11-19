@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T06:26:51.238Z",
+  "generated_at": "2026-11-19T06:48:30.331Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -107,6 +107,17 @@
       "last_pushed_at": "2026-11-19T06:26:49.236Z",
       "language": "python",
       "lines": 24
+    },
+    "math:410": {
+      "kind": "math",
+      "id": "410",
+      "title": "Woodbury, Sherman-Morrison and the Matrix Determinant Lemma",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/410",
+      "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
+      "first_solved_at": "2026-11-19T06:48:28.493Z",
+      "last_pushed_at": "2026-11-19T06:48:28.493Z"
     }
   }
 }
